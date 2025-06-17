@@ -39,10 +39,18 @@
     },
     "25": {
       "title": "L'interrogatoire de Laem Chabang",
-      "volume": "6",
+      "volume": "7",
       "last_updated": "1747655347",
       "groups": {
         "Stairway to VF": "/proxy/api/imgur/chapter/jojolands-25-kLhMpou"
+      }
+    },
+    "26": {
+      "title": "Paco vs Ningbo, partie 1",
+      "volume": "7",
+      "last_updated": "1750181895",
+      "groups": {
+        "Stairway to VF": "/proxy/api/imgur/chapter/ALw7tNU"
       }
     }
   }
